@@ -5,6 +5,7 @@ To run it you need python(3.7), pygame and numpy.
 Using those I tried my best to make an efficient program but I am still a newbie and I would really enjoy feedback or methods to make my code better.
 
 Controls :
+ Press T to create a random board (1/8 alive(blacks), 7/8 dead(whites))
  Press Q (french keyboard, A in the american) to switch a cell (under your mouse) beetween Alive (black)  and Dead (white).
  Hold A (french keyboard, Q in the american) to run the actual game once it's set up.
  You can always stop pressing A and change the state of any cell at any moment.
